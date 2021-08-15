@@ -1,0 +1,13 @@
+#map {
+     height: 900px;
+   }
+
+   #layercontrol {
+     width: 400px;
+     height: 100px;
+     padding: 10px;
+     float: left;
+     box-shadow: 2px 2px 2px #aeaeae;
+     border-radius: 10px;
+   }
+  h1,h4{color: blue; text-align:center;}
